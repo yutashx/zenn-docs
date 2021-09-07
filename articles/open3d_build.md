@@ -20,6 +20,7 @@ published: true
 - CUDA Version: 11.4  
 - NVIDIA-SMI: 470.57.02
 - Driver Version: 470.57.02
+- Open3D: 0.13.0+d29a56854
 
 ## 必要なもの
 - C++14 compiler
