@@ -1,6 +1,6 @@
 ---
 title: 'Open3DのCUDA対応buildの備忘録'
-emoji: "😸"
+emoji: "🙂"
 type: "tech"
 topics: [Open3D, CUDA]
 published: true
