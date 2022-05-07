@@ -1,9 +1,9 @@
 ---
 title: "Open3Dの三次元再構成システムの解説"
-emoji: "💭"
+emoji: "🦭"
 type: "tech"
 topics: ["open3d", "3DReconstruction"]
-published: false
+published: true
 ---
 
 # Open3Dの三次元再構成システムの解説
