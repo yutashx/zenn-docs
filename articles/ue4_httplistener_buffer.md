@@ -2,7 +2,7 @@
 title: 'Unreal Engine 4のHttpListenerのバッファサイズの変更'
 emoji: "🪣"
 type: "tech"
-topics: [Unreal Engine 4, UE4]
+topics: [UE4, unrealengine, Linux, Ubuntu]
 published: true
 ---
 
@@ -105,7 +105,9 @@ Zennなどで共有する場合は次の項目に気をつける必要があり�
  > ii.  公開ディスカッションのためのEngineコードの共有
 お客様は、最大30行までのEngineコードのスニペットを、かかるスニペットの内容について議論する目的でのみ、オンライン上の公開フォーラムに投稿すること、またはライセンス技術用のサポートパッチおよびプラグインに関してかかるスニペットを配布することが認められます。ただし、Engineコードのライセンスなしに第三者にEngineコードを使用もしくは修正できるようにすること、またはEngineコードのより広範囲な部分を集約、再結合もしくは再構築することを目的としない場合に限られます。
 
-このライセンスが原因か分かりませんが、Unreal EngineのC++周りの情報はインターネット上にあまりないです。
+そのためUnreal Engine 4のソースコードを閲覧する際には、Epic Games Developerに登録する必要があります。
+
+またこのライセンスが原因か分かりませんが、Unreal EngineのC++周りの情報はインターネット上にあまりないです。
 そのためUnreal EngineをC++で書いている人々はどのようにエラーを解決しているのか気になります。
 
 この記事以外にも自分のUnreal Engine 4をC++で書く際の知見は[こちら](https://zenn.dev/yutashx/scraps/aef914c793b092)のスクラップにまとめているので、もしよければご覧ください。
